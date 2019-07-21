@@ -1,3 +1,8 @@
 # Fortify
-## Feel free to give any feedbacks!
-![alt text](https://github.com/danieldz0004/BudgetCalculator/blob/master/Screen%20Shot%202019-07-12%20at%201.46.13%20pm.png)
+## How to use?
+## Before setting up following steps, please make sure you have installed Node.js on your computer, you can download the latest one here: https://nodejs.org/en/
+## Step 1: cd to the file you have cloned
+## Step 2: npm install (This will take a while)
+## step 3: npm run dev
+## step 4: npm run start
+![alt text](https://github.com/danieldz0004/Fortify/blob/master/Demo.png)
